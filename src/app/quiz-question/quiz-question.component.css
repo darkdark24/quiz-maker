@@ -1,0 +1,29 @@
+button {
+  border-radius: 10%;
+  padding: 5px;
+  border-color: darkgreen;
+}
+
+.switch-question {
+  margin-left: 10px;
+  border-radius: 0;
+  border: 0;
+  background-color: black;
+  border-color: black;
+  color: white;
+}
+
+.answer {
+  background-color: transparent;
+  color: darkgreen;
+}
+
+.selected-answer {
+  background: darkgreen;
+  color: white;
+}
+
+.wrong-answer {
+  background: red;
+  color: white;
+}
